@@ -1,5 +1,4 @@
-# 💫 About Me:
-⚫I am currently working a back-end developer<br>⌛I'm currently working on Cafe Management System <br>📧 How to reach me mostafamohamed19070@gmail.com
+# 💫 About Me:⚫ I work as a back-end developer<br>⌛I'm currently working on Cafe Management System <br>📧 How to reach me mostafamohamed19070@gmail.com
 
 
 ## 🌐 Socials:
