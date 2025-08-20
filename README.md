@@ -1,5 +1,5 @@
 # 💫 About Me:<br>
-⚫ I work as a back-end developer<br>⌛I'm currently working on Cafe Management System <br>📧 How to reach me mostafamohamed19070@gmail.com
+⚫ I work as a back-end developer<br>⌛I'm currently trainee at ITI  <br>📧 How to reach me mailto:mostafamohamed19070@gmail.com
 
 
 ## 🌐 Socials:
