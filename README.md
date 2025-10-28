@@ -1,6 +1,7 @@
 # 💫 About Me:<br>
-⚫ I work as a back-end developer<br>⌛I'm currently trainee at ITI  <br>📧 How to reach me mailto:mostafamohamed19070@gmail.com
-
+Computer Science graduate with hands-on experience in backend development and API design. Currently a Full
+Stack Python trainee at ITI, expanding expertise in modern frameworks, databases, and cloud deployment.
+Passionate about building scalable applications and contributing to high-impact projects.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/mostafaurd72) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mostafaelfar_/?next=%2F) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mostafam7md) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://www.pinterest.com/mostafamohamed19070/) 
